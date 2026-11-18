@@ -1,7 +1,7 @@
 // Roshetta PWA Service Worker v4.0.0
 // Offline-First SPA Architecture with Background Sync and Stale-While-Revalidate
 
-const CACHE_NAME = 'roshetta-pwa-v23';
+const CACHE_NAME = 'roshetta-pwa-v24';
 
 const PRECACHE_ASSETS = [
   '/',
@@ -11,7 +11,7 @@ const PRECACHE_ASSETS = [
   '/apple-touch-icon-precomposed.png',
   '/icon-192.png',
   '/icon-512.png',
-  '/_expo/static/js/web/index-90ec525af01e86573b22a34d87084bad.js'
+  '/_expo/static/js/web/index-c921129cb1645e23173dd6d11cf1bfba.js'
 ];
 
 // Install: precache application shell with fault tolerance
